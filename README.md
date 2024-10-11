@@ -1,3 +1,3 @@
-# ![Banner](/assets/banner.png)
+# ![Banner](/assets/images/banner.png)
 
-A Proxmox manager written in Go.
+## A Proxmox manager written in Golang
