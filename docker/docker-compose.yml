@@ -1,0 +1,16 @@
+#---------------------------------------------------------------------#
+#                              goProxmox                              #
+#---------------------------------------------------------------------#
+name: goProxmox
+  services:
+    goProxmox:
+      image: nickfedor/goProxmox
+      container_name: goProxmox
+      restart: unless-stopped
+      environment:
+        - PUID=1000
+        - PGID=1000
+      volumes:
+        - ./data:/goProxmox/data
+      ports:
+        - 8080:8080
