@@ -7,7 +7,19 @@ Virtual Environment](https://www.proxmox.com/en/proxmox-virtual-environment/over
 
 ## Features
 
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Instructions](#instructions)
+    - [Docker Compose](#quick-start-via-docker-compose)
+    - [LXC Container](#via-a-proxmox-lxc-container)
+- [Tutorial](#tutorial)
+- [Development](#development)
+- [Additional Documentation](#additional-documentation)
+
 ## Getting Started
+<sup>[(Back to top)](#table-of-contents)</sup>
 
 ### Prerequisites
 
@@ -18,6 +30,7 @@ Virtual Environment](https://www.proxmox.com/en/proxmox-virtual-environment/over
 ### Instructions
 
 #### Quick Start via Docker Compose
+<sup>[(Back to top)](#table-of-contents)</sup>
 
 > [Docker's Getting Started documentation](https://docs.docker.com/get-started/)
 
@@ -43,15 +56,20 @@ Virtual Environment](https://www.proxmox.com/en/proxmox-virtual-environment/over
    Docker host's IP address
 
 #### Via a Proxmox LXC Container
+<sup>[(Back to top)](#table-of-contents)</sup>
 
 ## Tutorial
+<sup>[(Back to top)](#table-of-contents)</sup>
 
 ## Development
+<sup>[(Back to top)](#table-of-contents)</sup>
 
 ## Additional Documentation
+<sup>[(Back to top)](#table-of-contents)</sup>
 
 - [Proxmox](https://pve.proxmox.com/pve-docs/)
 - [Docker](https://docs.docker.com/manuals/)
 - [Go](https://go.dev/doc/)
 
 ---
+<sup>[(Back to top)](#table-of-contents)</sup>
